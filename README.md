@@ -1,10 +1,5 @@
 ### Hi 👋
 
-<!--
-### Olá Eu sou o Gabriel Stevens
-
-#
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-gabriel-739691191/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanstevens&theme=midnight-purple&show_icons=true)
